@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ComprarVectoresRecursividad.iml" filepath="$PROJECT_DIR$/ComprarVectoresRecursividad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaximoVector.iml" filepath="$PROJECT_DIR$/MaximoVector.iml" />
     </modules>
   </component>
 </project>
